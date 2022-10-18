@@ -1,0 +1,466 @@
+@media (max-width: 1720px) {
+    .banner-h2 {
+        font-size: 5em;
+    }
+    .slider-card-fav {
+        width: 40em;
+    }
+    .slider-img-fav {
+        width: 40em;
+        border-radius: 30px;
+    }
+    .main-pic {
+        height: 75vh;
+    }
+    .main-banner-text {
+        width: 26vw;
+        
+    }
+    .main-banner-h2 {
+        font-size: 5em;
+    }
+}
+
+@media (max-width: 1470px) {
+    .banner-h2 {
+        font-size: 4em;
+    }
+    .slider-card {
+        width: 22em;
+    }
+    .slider-img {
+        width: 22em;
+    }
+    .slider-card-fav {
+        width: 34em;
+    }
+    .slider-img-fav {
+        width: 34em;
+    }
+    .main-banner-h2 {
+        font-size: 4em;
+    }
+    .main p {
+        font-size: 1.6em;
+    }
+}
+@media (max-width: 1366px) {
+    .slider-card {
+        width: 18em;
+    }
+    .slider-img {
+        width: 18em;
+    }
+    .main-pic {
+        height: 65vh;
+    }
+    .slider-card-fav {
+        width: 30em;
+    }
+    .slider-img-fav {
+        width: 30em;
+    }
+}
+@media (max-width: 1335px) {
+    .banner-img {
+        width: 48vw;
+    }
+    .banner-h2 {
+        font-size: 3.4em;
+    }
+    .banner-desc {
+        white-space: normal;
+    }
+    .young-favourite {
+        font-size: 2.4em;        
+    }
+
+}
+@media (max-width: 1280px) {
+    .banner-img {
+        width: 46vw;
+    }
+    .banner-h2 {
+        font-size: 3em;
+    }
+    .young-favourite {
+        font-size: 2.2em;        
+    }
+    .main-pic {
+        height: 55vh;
+    }
+    .main-banner-h2 {
+        font-size: 3.4em;
+    }
+    .main p {
+        font-size: 1.4em;
+    }
+    .arrivals-title {
+        font-size: 1.9em;
+    }
+    .yellow-figure-small {
+        width: 110px;
+    }
+
+}
+@media (max-width: 1080px)  {
+    .banner-h2 {
+        font-size: 2.4em;
+        line-height: 130%;
+    }
+    .yellow-figure {
+        display: none;
+    }
+    .banner-desc {
+        margin-bottom: 1em;
+        
+    }
+    .btn-header {
+        margin-top: -1em;
+    }
+    .companies {
+        padding-top: 1.2em;
+        padding-bottom: 1.2em;
+    }
+    .slider-card {
+        width: 16em;
+    }
+    .slider-img  {
+        width: 16em;
+    }
+    .slider-desc p{
+        font-size: 1em;
+    }
+    .main {
+        padding-top: 0;
+    }
+    .main-pic {
+        height: 100vh;
+    }
+    .main-banner-h2 {
+        font-size: 3em;
+    }
+    .main-banner-text p {
+        font-size: 1em;
+    }
+    .main button {
+        margin-top: 1em;
+    }
+    .yellow-figure-young {
+        display: none;
+    }
+    .young-favourite {
+        margin-bottom: 0em;
+    }
+    .slider-card-fav {
+        margin-top: 2.4em;
+        width: 36vw;
+    }
+    .slider-img-fav {
+        width: 36vw;
+    }
+    .voucher-title {
+        font-size: 2em;
+    }
+    .voucher-desc {
+        font-size: 1em;
+    }
+    .apps a img {
+        width: 8em;
+    }
+    .phone-img {
+        width: 30vw;
+    }
+    .promo-h2 {
+        font-size: 2em;
+    }
+    .promo-desc {
+        font-size: 1em;
+    }
+    .footer-categories {
+        gap: 2em;
+    }
+    .footer-categories a {
+        line-height: 2em;
+    }
+}
+
+@media (max-width: 990px) {
+    .banner-h2 {
+        font-size: 2em;
+        line-height: 130%;
+    }
+    .slider-card {
+        width: 14em;
+    }
+    .slider-img  {
+        width: 14em;
+    }
+}
+
+@media (max-width: 930px) {
+    .banner-h2 {
+        font-size: 2em;
+        line-height: 130%;
+    }  
+    .banner-desc {
+        font-size: 0.8em;
+    }
+    .banner-img {
+        width: 50vw;
+    }
+}
+
+@media (max-width: 800px) {
+    .menu {
+        display: none;
+    }
+    .nav-button {
+        display: block;
+    }
+
+    .mobile-nav-active {
+        display: flex;
+    }
+    .banner-h2 {
+        font-size: 1.8em;
+        line-height: 130%;
+        margin-bottom: 0;
+    }  
+    .banner-desc {
+        font-size: 0.8em;
+        margin-bottom: 1em;
+    }
+    .button-block {
+        margin-top: -1em;
+    }
+    .arrivals-title {
+        width: 30vw;
+    }
+    .yellow-figure-small  {
+        display: none;
+    }
+    .slider-card {
+        width: 10em;
+    }
+    .slider-img  {
+        width: 10em;
+    }
+    .slider-desc {
+        font-size: 0.8em;
+    }
+}
+@media (max-width: 720px) {
+    .header  {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .banner-text {
+        width: 100%;
+        text-align: center;
+    }
+    .banner-h2 {
+        margin-bottom: -0.4em;
+        padding-right: 1em;
+        padding-left: 1em;
+            font-size: 2.7em;
+            width: 80%;
+    }
+    .banner-h2 span {
+        margin: 0 0.8em;
+    }
+    .bg-white::after {
+        width: 3.2em;
+    }
+    .banner-desc {
+        margin: 0;
+        font-size: 1.4em;
+    }
+    .button-block {
+        margin: 0 auto;
+    }
+    .banner-img {
+        width: 80%;
+    }
+    .companies {
+        height: auto;
+    }
+    .companies img {
+        width: 20vw;
+        padding: 2em;
+    }
+    .arrivals-title {
+        width: 50vw;
+        font-size: 2.3em;
+    }
+    .arrivals-slider {
+        margin-top: 2em;
+    }
+    .main {
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .main .main-banner-text {
+        width: 80vw;
+        
+    }
+    .main .main-pic {
+        width: 50vw;
+        height: auto;
+        margin-top: -2em;
+    }
+    .main h2 {
+        text-align: center;
+        padding-bottom: 0.4em;
+    }
+    .main p {
+        text-align: center;
+    }
+    .main .main-btn {
+        margin-left: 40%;
+    }
+    .new-arrivals-title-block {
+        margin: 0 auto;
+    }
+    .arrivals-title {
+        margin: 0;
+        padding: 0;
+    }
+    .young-fav-title-block {
+        width: 50vw;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+    }
+    .young-favourite {
+        margin: 0;
+        padding: 0;
+    }
+    .promo-h2 {
+        width: 60%;
+    }
+    .footer-categories {
+        gap: 0.5em;
+    }
+    .footer ul {
+        margin: 0;
+        padding: 0.2em;
+    }
+    .social-networks {
+        flex-wrap: wrap;
+    }
+    .footer {
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+}
+@media (max-width: 650px) {
+    .young-fav-title-block {
+        width: 75vw;
+    }
+    .input-text, .promo-btn {
+        font-size: 0.8em;
+    }
+.footer {
+    font-size: 0.8em;
+}
+.companies img {
+    width: 15vw;
+    padding: 1em;
+}
+}
+@media (max-width: 560px) {
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        margin: 2em;
+    }
+    .logo img {
+        width: 50vw;
+    }
+    .header {
+        margin-top: -4em;
+    }
+    .banner-img {
+        margin-top: 0;
+        width: 80vw;
+        height: 90vh;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 0 0 60px 0;
+    }
+    .button-block {
+        padding-bottom: 1em;
+    }
+    .companies img {
+        width: 20vw;
+    }
+    .new-arrivals-title-block {
+        width: 100vw;
+    }
+    .arrivals-title {
+        width: 100vw;
+        font-size: 2em;
+    }
+    .slider-card-fav, .slider-img-fav {
+        width: 65vw;
+    }
+    .slider-card {
+        width: 60vw;
+    }
+    .slider-img {
+        width: 65vw;
+        height: 55vh;
+        object-fit: cover;
+        object-position: 0 15%;
+    }
+    .main .main-pic {
+        width: 80vw;
+        height: 65vh;
+        object-fit: cover;
+        object-position: top;
+    }
+    .phone-img {
+        display: none;
+    }
+    .voucher-text {
+        width: 100vw;
+        text-align: center;
+    }
+    .promo-desc {
+        width: 70vw;
+        margin: 0 auto;
+    }
+    .form-block {
+        margin: 0 30vw;
+    }
+    .footer {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer-fashion {
+        width: 90vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+    }
+    .fashion, .footer-fashion p {
+margin-bottom: 0;
+    } 
+    .social-networks {
+        margin-bottom: 2em;
+    }
+    .footer-categories {
+        justify-content: center;
+        
+    }
+    .footer-categories ul {
+        text-align: center;
+    }
+}
